@@ -6,9 +6,11 @@ spotlights:
   - title: 最後に
     description: 有志の企画です。お問い合わせ先は
 ---
-
+アニソンシンガーとして活躍している鈴木このみを応援する有志によって運用されているサイトです。  
+  
+  
 <section class="spotlight" markdown="1">
-# 企画の趣旨
+## 企画の趣旨
 
 企画説明（ARについてなど）
 {:.content}
@@ -27,8 +29,12 @@ spotlights:
 </section>
 
 <section class="spotlight" markdown="1">
-# 最後に
+# 注意事項
+ご本人様、KADOKAWA様、MAGES.様、Digital Double様、イベント主催者様とは一切関係ありません。  
+くれぐれもそちらへ問い合わせ等はご遠慮くださいませ。
 
-有志の企画です。お問い合わせ先は
+
+お問い合わせ先  
+E-mail：konomaniayushi@gmail.com
 {:.content}
 </section>
